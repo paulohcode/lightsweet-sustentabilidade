@@ -1,0 +1,3 @@
+[03-Aug-2019 08:37:26 America/Sao_Paulo] PHP Warning:  include(pages/erro.php): failed to open stream: No such file or directory in /home2/greenfarmco2free/public_html/lightsweet/index.php on line 140
+[03-Aug-2019 08:37:26 America/Sao_Paulo] PHP Warning:  include(pages/erro.php): failed to open stream: No such file or directory in /home2/greenfarmco2free/public_html/lightsweet/index.php on line 140
+[03-Aug-2019 08:37:26 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'pages/erro.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/greenfarmco2free/public_html/lightsweet/index.php on line 140
